@@ -1,0 +1,31 @@
+{
+  "name": "eksamen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "kill-port": "^2.0.1",
+    "socket.io": "^4.5.4",
+    "sqlite3": "https://github.com/tryghost/node-sqlite3/tarball/master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonHjensen/eksamenDIS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SimonHjensen/eksamenDIS/issues"
+  },
+  "homepage": "https://github.com/SimonHjensen/eksamenDIS#readme",
+  "description": ""
+}
