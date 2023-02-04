@@ -30,7 +30,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Use the express-session middleware to manage sessions
 app.use(
   session({
-    secret: 'Tys Tys',
+    secret: 'Min hemmelighed',
     name: 'uniqueSessionID',
     saveUninitialized: false,
     resave: false,
